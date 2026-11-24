@@ -1,0 +1,87 @@
+{
+  "note": "Complete manual rubric review and compute ratio as described in EVALUATION.md.",
+  "baseline": [
+    {
+      "topic_id": "T01",
+      "status": "error",
+      "error_type": "RuntimeError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T02",
+      "status": "error",
+      "error_type": "RuntimeError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T03",
+      "status": "error",
+      "error_type": "RuntimeError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T04",
+      "status": "error",
+      "error_type": "RuntimeError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T05",
+      "status": "error",
+      "error_type": "RuntimeError",
+      "checks": {
+        "rubric_pass": null
+      }
+    }
+  ],
+  "multi_agent": [
+    {
+      "topic_id": "T01",
+      "status": "error",
+      "error_type": "NotImplementedError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T02",
+      "status": "error",
+      "error_type": "NotImplementedError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T03",
+      "status": "error",
+      "error_type": "NotImplementedError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T04",
+      "status": "error",
+      "error_type": "NotImplementedError",
+      "checks": {
+        "rubric_pass": null
+      }
+    },
+    {
+      "topic_id": "T05",
+      "status": "error",
+      "error_type": "NotImplementedError",
+      "checks": {
+        "rubric_pass": null
+      }
+    }
+  ]
+}
